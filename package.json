@@ -1,0 +1,26 @@
+{
+  "name": "logistics-management-system",
+  "version": "1.0.0",
+  "description": "Desktop application for parcel delivery service management. Built with Electron.js, Node.js, and PostgreSQL.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakuraizen/logistics-management-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sakuraizen/logistics-management-system/issues"
+  },
+  "homepage": "https://github.com/sakuraizen/logistics-management-system#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "electron": "^41.0.3",
+    "pg": "^8.20.0"
+  }
+}
